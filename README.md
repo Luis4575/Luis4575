@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
           <option value="km">Километры</option>
           <option value="miles">Мили</option>
         </select>
-        <button onclick="convert()">Конвертировать</button>
+        <button onclick="convert()">Конвертировать01</button>
       </div>
       <p id="conversionResult"></p>
     </div>
